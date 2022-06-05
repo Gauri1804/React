@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.a6a93be8.css",
+    "main.js": "/React/static/js/main.3f0cd9fa.js",
+    "static/js/787.3f00b8b1.chunk.js": "/React/static/js/787.3f00b8b1.chunk.js",
+    "static/media/kedarnath.jpg": "/React/static/media/kedarnath.ba51c41d52fa90c6a810.jpg",
+    "static/media/wildlife.jpg": "/React/static/media/wildlife.e475c97cd52f803e9c67.jpg",
+    "static/media/food.jpg": "/React/static/media/food.4d7842a50d729cd04d05.jpg",
+    "static/media/Cro2.jpg": "/React/static/media/Cro2.e6a595827e3f2d83269c.jpg",
+    "static/media/1.jpg": "/React/static/media/1.51743b47743174c5565a.jpg",
+    "static/media/temple.jpg": "/React/static/media/temple.7ae4435977fe1f119c9c.jpg",
+    "static/media/timthumb.jpeg": "/React/static/media/timthumb.20068b77c82a9aa93049.jpeg",
+    "static/media/download1.jpeg": "/React/static/media/download1.5058c0b82ec711e6749d.jpeg",
+    "index.html": "/React/index.html",
+    "main.a6a93be8.css.map": "/React/static/css/main.a6a93be8.css.map",
+    "main.3f0cd9fa.js.map": "/React/static/js/main.3f0cd9fa.js.map",
+    "787.3f00b8b1.chunk.js.map": "/React/static/js/787.3f00b8b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a93be8.css",
+    "static/js/main.3f0cd9fa.js"
+  ]
+}
